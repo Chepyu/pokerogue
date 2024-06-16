@@ -39,7 +39,7 @@ import { tutorial } from "./tutorial";
 import { voucher } from "./voucher";
 import { weather } from "./weather";
 
-export const jpConfig = {
+export const jaConfig = {
   ability: ability,
   abilityTriggers: abilityTriggers,
   battle: battle,
